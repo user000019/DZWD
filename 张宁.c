@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 { 
-    printf("张宁郑玉双改了");
+    printf("郑玉双张宁改了");
     return 0;
 }
