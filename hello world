@@ -1,6 +1,6 @@
 #include<stdio.h>
 main(){
 printf("hello world!/n");
-printf("19冲突解决");
+printf("冲突解决");
 return 0;
 }
