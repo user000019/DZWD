@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 { 
-    printf("张博莹张泷丹改了1
+    printf("张博莹张泷丹改了2
     
     改也白改改也白改改也白改改也白改改也白改改也白改改也白改");
     return 0;有了
