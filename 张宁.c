@@ -18,4 +18,5 @@ int main()
     12：23，，我这总出commit_editmsg那个破玩意
     12：25了，我刚才更新重启了visual studio code，现在变成英文的提交了，服了
     sync changes?
+    12:30了，更新的上边一排全是中文，框里的内容全是英文，这个更新真没啥必要
 }
