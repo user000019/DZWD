@@ -1,6 +1,7 @@
 #include<stdio.h>
 main(){
 printf("hello world!/n");
-printf("hello world!/n");
+printf("19组修改");
+printf("19组修改");
 return 0;
 }
